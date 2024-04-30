@@ -5,3 +5,6 @@ git add README.md
 git remote add origin https://github.com/nguyenthang296/meme.git
 git push -u origin main
 ![Uploading image.png…]()
+git remote add origin https://github.com/nguyenthang296/meme.git
+git branch -M main
+![Uploading image.png…]()
