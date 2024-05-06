@@ -8,3 +8,6 @@ git push -u origin main
 git remote add origin https://github.com/nguyenthang296/meme.git
 git branch -M main
 ![Uploading image.png…]()
+git commit -m "first commit"
+git branch -M main
+![Uploading image.png…]()
